@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashlynn Antrobus</h1>
-<h3 align="center">future AI Engineer hoping to work in the intersection of AI and writing</h3>
+<h3 align="center">Python developer and AI Engineer hoping to work in the intersection of AI and writing</h3>
 
-- 🔭 I’m currently working on [ProsePal](https://replit.com/@ashrobertsdrago/ProsePal)
+- 🔭 I’m currently working on [ProsePal](https://prosepal.io) and [Python-SaaS](https://python-saas.com)
 
-- 🌱 I’m currently learning **Javascript, Python**
-
-- 👨‍💻 All of my projects are available at [https://replit.com/@ashrobertsdrago/](https://replit.com/@ashrobertsdrago/)
+- 🌱 Proficient at Python, Flask, API's, and LLM's. Basic ability at Javascript, Django, and Google Cloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
