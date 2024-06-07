@@ -26,7 +26,7 @@
 - AI: ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff) ![Claude](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=Anthropic&logoColor=fff)
 - Other technologies: ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-### Contributed to: ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Contributed to: [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/pybadges/pull/45)
 
 ## Most used langauages
 
