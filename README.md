@@ -3,6 +3,7 @@
 ## (pronouns: she /they) 🏳️‍⚧️🏳️‍🌈
 
 ### Python developer and AI Engineer working in the intersection of AI and writing
+![Open to work](https://img.shields.io/badge/Open_to_Work-83941f?style=for-the-badge]
 
 ![Profile sumamry](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrobertsdragon&theme=tokyonight)
 
