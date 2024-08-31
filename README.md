@@ -7,7 +7,7 @@
 
 ### Current Project
 
-- [LoreBinders]([https://github.com/ashrobertsdragon/LoreBinders](https://github.com/ashrobertsdragon/LoreBinders/tree/v2) v2 branch
+- [LoreBinders](https://github.com/ashrobertsdragon/LoreBinders/tree/v2) v2 branch
 
 #### Other notable projects
 
