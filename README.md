@@ -5,11 +5,9 @@
 ### Python developer and AI Engineer working in the intersection of AI and writing
 ![Open to work](https://img.shields.io/badge/Open_to_Work-83941f?style=for-the-badge)
 
-![Profile sumamry](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrobertsdragon&theme=tokyonight)
-
 ### Current Project
 
-- [LoreBinders](https://github.com/ashrobertsdragon/LoreBinders) v2 branch
+- [LoreBinders]([https://github.com/ashrobertsdragon/LoreBinders](https://github.com/ashrobertsdragon/LoreBinders/tree/v2)) v2 branch
 
 #### Other notable projects
 
