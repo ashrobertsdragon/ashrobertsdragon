@@ -34,14 +34,13 @@
 
 ### Sites
 
-- [ProsePal](https://prosepal.io)
 - [See Ash Code](https://see-ash.codes)
-- [Python-SaaS](https://python-saas.com)
+- [ProsePal](https://prosepal.io)
 
 ### Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/) [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
 
 ## Also on
 
-- [![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/prosepal/)
+- [![PyPi](https://img.shields.io/badge/pypi-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/prosepal/)
