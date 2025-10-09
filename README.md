@@ -3,29 +3,26 @@
 ## (pronouns: she /they) 🏳️‍⚧️🏳️‍🌈
 
 ### Python developer and AI Engineer working in the intersection of AI and writing
-![Open to work](https://img.shields.io/badge/Open_to_Work-83941f?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open_to_Work-83941f)
 
 ### Current Project
 
-- [LoreBinders](https://github.com/ashrobertsdragon/LoreBinders/tree/v2) v2 branch
+- [Listen: Personal Podcast System](https://github.com/ashrobertsdragon/listen)
 
 #### Other notable projects
 
-- [Finetune GPT 3.5 on Fiction](https://github.com/ashrobertsdragon/Finetune-GPT-3.5-for-Authors)
+- [IndexedDict](https://github.com/ashrobertsdragon/indexeddict)
 - [SupaSaaS](https://github.com/ashrobertsdragon/SupaSaaS)
 - [Ebook Conversion to Text for Machine Learning](https://github.com/ashrobertsdragon/Ebook-conversion-to-Text-for-Machine-Learning) ([ebook2text library on PyPi](https://pypi.org/project/ebook2text/))
 
 ### Stack
 
-- Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- Frameworks: ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- Databases: ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-- Cloud: ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- Document technologies: ![Epub](https://img.shields.io/badge/Epub-greeb.svg?style=for-the-badge&logo=epub&logoColor) ![PDF](https://img.shields.io/badge/PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) ![XML](https://img.shields.io/badge/XML-orange.svg?style=for-the-badge&logo=PDF&logoColor) ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-- AI: ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff) ![Claude](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=Anthropic&logoColor=fff)
-- Other technologies: ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-### Contributed to: [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/pybadges/pull/45)
+- Languages: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![PowerShell](https://img.shields.io/badge/PowerShell-0277BD?style=plastic&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABcUlEQVR4nO3Xv%2BuPURQH8ONHlPxaRAY2SpIUiYmyWCkTu4HvYDN9N6vJH2ARBsmgKBubZBCKsPhI9M2ChJee%2Biw%2BPadYPp1b9zWfes773ttz7o3ouq7ruq5hOI4XmOB8tAT78cPfFqMVuGDc2WgBduLbSICfOBktwBn8HgnxHUeiBbiYHKUv2BctwOUkxEfsiOqwHDeSEK%2BwJarDKtxPQjzFxqgO6%2FEkCfEAq6M6bMXbJMQtrIjqsAufkxBXogU4nAy6pqb1iWTQTaI6rMO1ZAfuRGXYi5dJ87exNorfj76OND5cvReHoRcVYQOuJ6v%2BBgejKhzA66T5m2WnMJZhYeRlZnqMFqIqbMLdZNWfYXdUhaN4nzR%2FFWuiIqyc%2Fkl%2BJQ%2BYU1EVtuFhsuqPsB2nseTfLA3182r%2BED6NNDHsxKVhZ6Z1H%2FyfybwCDK%2BqWUOzx2bqygZ4PPPhe9g8Ulf2CO3Bc7zDubLXga7ruq7rYn7%2BACNHFcgrUZ4BAAAAAElFTkSuQmCC)](#)
+- Frameworks: [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+- Databases: [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
+- Cloud: [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+- Containerization & Deployment: [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+- AI: [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 ## Most used langauages
 
@@ -43,7 +40,7 @@
 
 ### Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@ashdragoneer) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
 
 ## Also on
 
