@@ -7,26 +7,28 @@
 
 ### Current Project
 
-- [Listen: Personal Podcast System](https://github.com/ashrobertsdragon/listen)
+- [Markdown-based blogging platform](https://github.com/ashrobertsdragon/markdown-blog)
 
 #### Other notable projects
 
+- [ebook2text](https://github.com/ashrobertsdragon/ebook2text) ([ebook2text library on PyPi](https://pypi.org/project/ebook2text/))
+- [Markdown RAG MCP](https://github.com/ashrobertsdragon/rag-mcp)
 - [IndexedDict](https://github.com/ashrobertsdragon/indexeddict)
-- [SupaSaaS](https://github.com/ashrobertsdragon/SupaSaaS)
-- [Ebook Conversion to Text for Machine Learning](https://github.com/ashrobertsdragon/Ebook-conversion-to-Text-for-Machine-Learning) ([ebook2text library on PyPi](https://pypi.org/project/ebook2text/))
 
 ### Stack
 
-- Languages: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![PowerShell](https://img.shields.io/badge/PowerShell-0277BD?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABcUlEQVR4nO3Xv%2BuPURQH8ONHlPxaRAY2SpIUiYmyWCkTu4HvYDN9N6vJH2ARBsmgKBubZBCKsPhI9M2ChJee%2Biw%2BPadYPp1b9zWfes773ttz7o3ouq7ruq5hOI4XmOB8tAT78cPfFqMVuGDc2WgBduLbSICfOBktwBn8HgnxHUeiBbiYHKUv2BctwOUkxEfsiOqwHDeSEK%2BwJarDKtxPQjzFxqgO6%2FEkCfEAq6M6bMXbJMQtrIjqsAufkxBXogU4nAy6pqb1iWTQTaI6rMO1ZAfuRGXYi5dJ87exNorfj76OND5cvReHoRcVYQOuJ6v%2BBgejKhzA66T5m2WnMJZhYeRlZnqMFqIqbMLdZNWfYXdUhaN4nzR%2FFWuiIqyc%2Fkl%2BJQ%2BYU1EVtuFhsuqPsB2nseTfLA3182r%2BED6NNDHsxKVhZ6Z1H%2FyfybwCDK%2BqWUOzx2bqygZ4PPPhe9g8Ulf2CO3Bc7zDubLXga7ruq7rYn7%2BACNHFcgrUZ4BAAAAAElFTkSuQmCC)](#)
-- Frameworks: [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-- Databases: [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
-- Cloud: [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+- Languages: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#)
+- Frameworks: [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#) [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#) ![Vitest](https://img.shields.io/badge/-Vitest-252529?logo=vitest&logoColor=FCC72B) 
+- Databases & ORMs: [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![DuckDB](https://img.shields.io/badge/duckdb-%23FFF000.svg?logo=duckdb&logoColor=black)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) [![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?logo=sqlalchemy&logoColor=white)](#)
+- AI: [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#) [![Claude Code](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Antigravity](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?logo=langgraph&logoColor=white)](#)
+- Documents & config: [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#) [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+- Cloud: [![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 - Containerization & Deployment: [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-- AI: [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+- Other technologies: [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![uv](https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9)](#)	[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](#) [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](#)
 
 ## Most used langauages
 
-![Most used langauages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrobertsdragon&theme=tokyonight)
+![Most used langauages graph](https://github-stats-extended.vercel.app/api/top-langs/?username=ashrobertsdragon&theme=tokyonight)
 
 ### Publiations
 
@@ -34,12 +36,12 @@
 
 ### Sites
 
-- [See Ash Code](https://see-ash.codes)
 - [ProsePal](https://prosepal.io)
 
 ### Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/) [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlynnantrobus/)
+- [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ashrobertsdragon)
 
 ## Also on
 
